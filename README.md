@@ -10,12 +10,12 @@ This challenge aims to fetch data from an address through the zip code.
 It is necessary to have [Anaconda](https://www.anaconda.com/products/individual) installed on the system.
 
 ### Create a new environment
-'''
+```
 conda env create -f environment.yml
-'''
+```
 
 ## Using
 
-'''
+```
 python web-scraping-correios.py
-'''
+```
